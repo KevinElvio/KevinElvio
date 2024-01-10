@@ -12,7 +12,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kevin elvio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin elvio" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22058870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22058870" height="30" width="40" /></a>
 <a href="https://instagram.com/kevin_elvio1774/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kevin_elvio1774/" height="30" width="40" /></a>
+<a href="https://dribbble.com/kevinelvio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="kevinelvio" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kevinelvio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kevinelvio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
