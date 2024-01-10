@@ -1,3 +1,5 @@
+![logo](https://github.com/KevinElvio/KevinElvio/blob/main/Banner1.jpg)
+
 <h1 align="center">Hi, I'm Kevin Elvio 🤘</h1>
 <h3 align="center">Welcome to my Github repository! You can see a collection of my completed and ongoing projects</h3>
 
