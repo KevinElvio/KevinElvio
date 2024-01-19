@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kevinelvio18@gmail.com**
 
-- ⚡ Fun fact **I could download songs from the internet when I was 8 years old**
+- ⚡ Fun fact **The first computer was 7 years old**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
