@@ -1,5 +1,5 @@
 <!--![logo](https://github.com/KevinElvio/KevinElvio/blob/main/Banner1.jpg)-->
-<p align="center"> <img src="[https://drive.google.com/uc?export=view&id=1phrYqIWgVb5QOvt6jHAKcA0zspCy2ppE](https://cdn.kibrispdr.org/data/1792/pixel-art-wallpaper-gif-56.gif)" width="80%" alt="kevinelvio" /> </p>
+<p align="center"> <img src="https://i.pinimg.com/originals/ed/88/da/ed88da8c757d74f6255717ffc7a78154.gif" width="80%" alt="kevinelvio" /> </p>
 
 <h1 align="center">Hi, I'm Kevin Elvio </h1>
 <h3 align="center">Welcome to my Github repository! You can see a collection of my completed and ongoing projects</h3>
