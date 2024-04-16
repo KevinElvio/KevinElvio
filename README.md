@@ -1,4 +1,5 @@
-![logo](https://github.com/KevinElvio/KevinElvio/blob/main/Banner1.jpg)
+<!--![logo](https://github.com/KevinElvio/KevinElvio/blob/main/Banner1.jpg)-->
+<p align="center"> <img src="https://drive.google.com/uc?export=view&id=1phrYqIWgVb5QOvt6jHAKcA0zspCy2ppE" width="80%" alt="kevinelvio" /> </p>
 
 <h1 align="center">Hi, I'm Kevin Elvio </h1>
 <h3 align="center">Welcome to my Github repository! You can see a collection of my completed and ongoing projects</h3>
