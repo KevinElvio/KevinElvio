@@ -2,11 +2,11 @@
 
 ###
 
-<img align="left" height="250" src="https://i.pinimg.com/originals/ed/88/da/ed88da8c757d74f6255717ffc7a78154.gif"  />
+<h1 align="left">Hi, I'm Kevin Elvio</h1>
 
 ###
 
-<h1 align="left">Hi, I'm Kevin Elvio</h1>
+<img align="left" height="250" src="https://i.pinimg.com/originals/ed/88/da/ed88da8c757d74f6255717ffc7a78154.gif"  />
 
 ###
 
@@ -30,11 +30,21 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Kevin from Indonesia<br><br>Welcome to my Github repository! You can see a collection of my completed and ongoing projects<br><br>📫 How to reach me kevinelvio18@gmail.com</p>
+<p align="left">I'm Kevin from Indonesia<br>Welcome to my Github repository! You can see a collection of my completed and ongoing projects.<br>📫 How to reach me kevinelvio18@gmail.com</p>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KevinElvio&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
 
@@ -104,16 +114,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=KevinElvio&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
