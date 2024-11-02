@@ -4,7 +4,7 @@
 
 <img align="left" height="250" src="https://i.pinimg.com/originals/ed/88/da/ed88da8c757d74f6255717ffc7a78154.gif" />
 
-<div align="center" class="social-links">
+<div align="center">
     <a href="https://www.instagram.com/kevin_elvio1774/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=db8121&logoColor=white&style=for-the-badge" height="25" alt="Instagram logo" />
     </a>
@@ -31,7 +31,7 @@
 </div>
 
 <h3 align="left">🛠 Language and tools</h3>
-<div align="left" class="tech-icons">
+<div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
@@ -63,24 +63,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
-
-<style>
-    .social-links {
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-        gap: 10px;
-    }
-    .social-links img, .tech-icons img {
-        transition: transform 0.3s;
-    }
-    .social-links a:hover img, .tech-icons img:hover {
-        transform: scale(1.1);
-    }
-    .tech-icons {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: flex-start;
-        gap: 10px;
-    }
-</style>
