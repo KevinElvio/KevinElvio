@@ -1,71 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kevin Elvio's Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-            background-color: #121212;
-            color: #ffffff;
-        }
-        h1, h3 {
-            text-align: center;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 8px;
-            transition: transform 0.3s;
-        }
-        img:hover {
-            transform: scale(1.05);
-        }
-        .social-links {
-            display: flex;
-            justify-content: center;
-            flex-wrap: wrap;
-            gap: 10px;
-        }
-        .social-links img {
-            transition: background-color 0.3s, transform 0.3s;
-            border-radius: 5px;
-        }
-        .social-links a:hover img {
-            background-color: rgba(255, 255, 255, 0.2);
-            transform: scale(1.1);
-        }
-        .tech-icons {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: flex-start;
-            gap: 10px;
-        }
-        .tech-icons img {
-            transition: transform 0.3s;
-        }
-        .tech-icons img:hover {
-            transform: scale(1.1);
-        }
-        @media (max-width: 600px) {
-            .tech-icons, .social-links {
-                justify-content: center;
-            }
-        }
-    </style>
-</head>
-<body>
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KevinElvio.KevinElvio&" />
 
-<h1>Hi, I'm Kevin Elvio</h1>
+<h1 align="left">Hi, I'm Kevin Elvio</h1>
 
 <img align="left" height="250" src="https://i.pinimg.com/originals/ed/88/da/ed88da8c757d74f6255717ffc7a78154.gif" />
 
-<div class="social-links">
+<div align="center" class="social-links">
     <a href="https://www.instagram.com/kevin_elvio1774/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=db8121&logoColor=white&style=for-the-badge" height="25" alt="Instagram logo" />
     </a>
@@ -83,16 +22,16 @@
     </a>
 </div>
 
-<h3>👩‍💻 About Me</h3>
-<p>I'm Kevin from Indonesia<br>Welcome to my Github repository! You can see a collection of my completed and ongoing projects.<br>📫 Reach me at <a href="mailto:kevinelvio18@gmail.com" style="color: #db8121;">kevinelvio18@gmail.com</a></p>
+<h3 align="center">👩‍💻 About Me</h3>
+<p align="left">I'm Kevin from Indonesia.<br>Welcome to my GitHub repository! You can see a collection of my completed and ongoing projects.<br>📫 Reach me at <a href="mailto:kevinelvio18@gmail.com" style="color: #db8121;">kevinelvio18@gmail.com</a></p>
 
-<h3>🔥 My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=KevinElvio&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
-<h3>🛠 Language and tools</h3>
-<div class="tech-icons">
+<h3 align="left">🛠 Language and tools</h3>
+<div align="left" class="tech-icons">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
@@ -125,5 +64,23 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
 
-</body>
-</html>
+<style>
+    .social-links {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+    .social-links img, .tech-icons img {
+        transition: transform 0.3s;
+    }
+    .social-links a:hover img, .tech-icons img:hover {
+        transform: scale(1.1);
+    }
+    .tech-icons {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        gap: 10px;
+    }
+</style>
