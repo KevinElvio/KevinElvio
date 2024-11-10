@@ -25,10 +25,10 @@
 <h3 align="center">👩‍💻 About Me</h3>
 <p align="left">I'm Kevin from Indonesia.<br>Welcome to my GitHub repository! You can see a collection of my completed and ongoing projects.<br>📫 Reach me at <a href="mailto:kevinelvio18@gmail.com" style="color: #db8121;">kevinelvio18@gmail.com</a></p>
 
-<!-- <h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=KevinElvio&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>   -->
+</div> 
 
 <h3 align="left">🛠 Language and tools</h3>
 <div align="left">
