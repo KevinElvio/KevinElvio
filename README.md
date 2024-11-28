@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi, I'm Kevin Elvio</h1>
 
-<img align="left" height="250" src="https://i.pinimg.com/originals/ed/88/da/ed88da8c757d74f6255717ffc7a78154.gif" />
+<!-- <img align="left" height="250" src="https://i.pinimg.com/originals/ed/88/da/ed88da8c757d74f6255717ffc7a78154.gif" /> -->
 
 <div align="center">
     <a href="https://www.instagram.com/kevin_elvio1774/" target="_blank">
