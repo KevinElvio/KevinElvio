@@ -14,12 +14,6 @@
     <a href="mailto:kevinelvio18@gmail.com" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail logo" />
     </a>
-    <a href="https://stackoverflow.com/users/22058870/kevin-elvio" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&style=for-the-badge" height="25" alt="Stackoverflow logo" />
-    </a>
-    <a href="https://www.hackerrank.com/profile/kevinelvio" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="25" alt="HackerRank logo" />
-    </a>
 </div>
 
 <h3 align="center">👩‍💻 About Me</h3>
