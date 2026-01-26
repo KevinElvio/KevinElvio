@@ -19,6 +19,10 @@
 <h3 align="left">👩‍💻 About Me</h3>
 <p align="left">I'm Kevin<br>Welcome to my GitHub repository! You can see a collection of my completed and ongoing projects.<br>📫 Reach me at <a href="mailto:kevinelvio18@gmail.com" style="color: #db8121;">kevinelvio18@gmail.com</a> <br> <a href="https://saweria.co/KevinElvio" style="color: #db8121;">🧋 Buy Me Coffee</a></p> 
 
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=KevinElvio&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div> 
+
 <!-- <h3 align="left">🔥 My Stats :</h3>
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=KevinElvio&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
