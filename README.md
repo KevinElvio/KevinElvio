@@ -69,9 +69,9 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kevin_elvio1774) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kevin-elvio-403486255) 
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KevinElvio&theme=dark&hide_border=true)<br/>
-
+-->
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KevinElvio&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
